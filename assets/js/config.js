@@ -10,6 +10,14 @@ const BADGES = [
   {
     name: "Первопроходец — верифицированный разработчик бота", // Message that appears when you hover over it
     image: "assets/badges/verified_bot_developer.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
+  },
+  {
+    name: "Буст сервера с 6 ферв. 2023 г.", // Message that appears when you hover over it
+    image: "assets/badges/boost.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
+  },
+  {
+    name: "Подписчик с 6 ферв. 2023 г.", // Message that appears when you hover over it
+    image: "assets/badges/nitro.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
   }
 ];
 
